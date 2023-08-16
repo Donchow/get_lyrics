@@ -18,7 +18,8 @@ Pour installer les bibliothèques, utilisez la commande suivante :
 pip3 install requests beautifulsoup4 unidecode
 
 Utilisation :
-Double-clique sur l'exutable ou alors :
+Double-clique sur l'executable dans dist ou 
+alors :
 Clonez ou téléchargez ce répertoire sur votre ordinateur.
 Ouvrez un terminal ou une invite de commandes et naviguez jusqu'au répertoire contenant le script.
 Exécutez le script en tapant python3 get_lyrics.py.
